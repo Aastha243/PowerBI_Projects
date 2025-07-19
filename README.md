@@ -47,7 +47,7 @@ The objective of this project is to perform a detailed analysis of how Artificia
 
 ---This analysis enables policy makers, tech leaders, and media companies to make data-driven decisions around AI adoption strategies, regulatory frameworks, and future investments in AI-powered digital solutions.
 
-### 📁 Project #1: Credit Card Transaction Report Analysis:
+### 📁 Project #2: Credit Card Transaction Report Analysis:
 
 
 This Power BI project focuses on analyzing customer behavior and usage patterns within a credit card company. The objective is to uncover actionable insights to enhance customer segmentation, retention strategies, and product offerings through data-driven analysis.
