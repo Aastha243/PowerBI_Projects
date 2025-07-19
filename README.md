@@ -32,28 +32,28 @@ This Power BI project focuses on analyzing customer behavior and usage patterns 
 
 ###  Key Features:
 
-### Customer Segmentation based on spending behavior and credit limits
+--- Customer Segmentation based on spending behavior and credit limits
 
-### Transaction Trends by category, time, and region
+--- Transaction Trends by category, time, and region
 
-### Credit Utilization Patterns to identify high-risk users
+--- Credit Utilization Patterns to identify high-risk users
 
-### Customer Lifetime Value (CLV) and engagement insights
+--- Customer Lifetime Value (CLV) and engagement insights
 
-### Churn Indicators using activity levels and satisfaction metrics
+--- Churn Indicators using activity levels and satisfaction metrics
 
 
 
 
 ### Tools & Technologies Used:
 
-### Power BI – Dashboard creation and interactive visualizations
+--- Power BI – Dashboard creation and interactive visualizations
 
-### DAX – Custom measures and KPIs for deeper analysis
+--- DAX – Custom measures and KPIs for deeper analysis
 
-### Power Query – ETL and data transformation processes
+--- Power Query – ETL and data transformation processes
 
-### Excel – Initial data cleanup and preprocessing
+--- Excel – Initial data cleanup and preprocessing
 
 
 
