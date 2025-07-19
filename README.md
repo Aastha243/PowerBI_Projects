@@ -1,6 +1,9 @@
 # Impact_of_AI_on_Digital_Media
 This project analyzes the global impact of Artificial Intelligence (AI) on digital media across multiple dimensions including adoption trends, revenue growth, content volume, and workforce dynamics. Using real-world-inspired datasets, the analysis offers insights into how AI is reshaping digital media consumption, content creation, and human-AI collaboration.
 
+<img width="1328" height="745" alt="Screenshot 2025-07-19 180042" src="https://github.com/user-attachments/assets/c68e189b-ff93-46da-b30c-b5b99f8cd6e2" />
+
+
 ### Key Features:
 ##### 1.AI Adoption Trends:
 Tracked growth of AI technologies across 10+ countries.
