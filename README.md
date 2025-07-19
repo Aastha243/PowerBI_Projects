@@ -4,21 +4,31 @@ This project analyzes the global impact of Artificial Intelligence (AI) on digit
 Key Features:
 
 AI Adoption Trends: Tracked growth of AI technologies across 10+ countries.
+
 Revenue Projections: Visualized AI-driven digital media revenue forecasts (2020–2030).
+
 Content Generation: Measured over 1,000+ TB/year of AI-generated content across global markets.
+
 Human-AI Collaboration: Identified a 2x growth in collaborative workflows from 2020 to 2025.
+
 Trust & Workforce Impact: Analyzed public trust and the evolving role of AI in digital jobs.
 
 Tools & Technologies:
 
 Power BI – Interactive dashboards and data visualization
+
 DAX – Custom measures and calculated columns
+
 Power Query – Data transformation and modeling
+
 Excel – Preliminary data structuring and cleanup
 
 Project Goals:
 
-Showcase the ability to translate complex datasets into actionable visual stories
-Demonstrate interactive dashboard design using Power BI
-Apply data analysis skills to real-world technology trends
+Showcase the ability to translate complex datasets into actionable visual stories.
+
+Demonstrate interactive dashboard design using Power BI.
+
+Apply data analysis skills to real-world technology trends.
+
 
