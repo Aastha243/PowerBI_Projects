@@ -25,3 +25,34 @@ Analyzed public trust and the evolving role of AI in digital jobs.
 
 
 
+2--Credit Card Transaction Report Analysis
+
+This Power BI project focuses on analyzing customer behavior and usage patterns within a credit card company. The objective is to uncover actionable insights to enhance customer segmentation, retention strategies, and product offerings through data-driven analysis.
+<img width="1093" height="678" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/26ce3660-2e81-42f8-ba6a-fe9dd2ee8925" />
+
+ Key Features
+--Customer Segmentation based on spending behavior and credit limits
+--Transaction Trends by category, time, and region
+--Credit Utilization Patterns to identify high-risk users
+--Customer Lifetime Value (CLV) and engagement insights
+--Churn Indicators using activity levels and satisfaction metrics
+
+Tools & Technologies Used
+--Power BI – Dashboard creation and interactive visualizations
+--DAX – Custom measures and KPIs for deeper analysis
+--Power Query – ETL and data transformation processes
+--Excel – Initial data cleanup and preprocessing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
